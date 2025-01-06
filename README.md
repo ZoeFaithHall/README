@@ -1,3 +1,7 @@
+![Upgrade to Premium](https://github.com/ZoeFaithHall/README/blob/main/Python-Flask-React-Vite.png)
+
+👉 [Click here to learn more about the Premium Starter Kit!](https://github.com/ZoeFaithHall/Premium-Python-React-Starter-Kit)
+
 # 👋 Hi, I’m Zoë Hall  
 **Frontend Engineer | Creative Technologist | Mentor**  
 
