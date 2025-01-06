@@ -1,4 +1,4 @@
-![Upgrade to Premium](https://github.com/ZoeFaithHall/README/blob/main/Python-Flask-React-Vite.png)
+![Upgrade to Premium]([https://github.com/ZoeFaithHall/README/blob/main/Python-Flask-React-Vite.png](https://github.com/ZoeFaithHall/README/blob/main/Premium-Python-React-Starter-Kit.png))
 
 👉 [Click here to learn more about the Premium Starter Kit!](https://github.com/ZoeFaithHall/Premium-Python-React-Starter-Kit)
 
